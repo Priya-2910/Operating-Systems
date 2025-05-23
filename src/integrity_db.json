@@ -1,5 +1,0 @@
-{
-    "samples/fake_malware1.txt": "7bf53a875fd792a49d9ddb3825621732f003842a0a738fdf70a9c353b999f64b",
-    "samples/fake_virus.exe": "7d55fbd7c071b207f2ca9847cd8d528110afab29abdae84d69463f8477254835",
-    "samples/clean_file.txt": "92488d1168be2c8bba35f4fe9bd36d117463777236d9864f94baed0f80b1c0cb"
-}
